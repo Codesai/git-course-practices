@@ -4,3 +4,5 @@ Cambio en feature2
 
 
 Cambio de Day1
+
+cambio divergente
